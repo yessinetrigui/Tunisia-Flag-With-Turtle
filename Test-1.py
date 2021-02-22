@@ -80,7 +80,7 @@ class parl () :
         pen2.clear()
         pen2.goto(-270,-290)
 turtle.listen()
-#Ya monsieur les parole rbathom bl keyboard lezm nnzl kol mara bch iji el parole
+
 turtle.onkey(parl.t1, "1")
 turtle.onkey(parl.t2, "2")
 turtle.onkey(parl.t3, "3")
